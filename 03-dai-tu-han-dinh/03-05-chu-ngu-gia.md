@@ -111,7 +111,7 @@ Công thức: **It + be + thành phần được nhấn + who / that + phần c�
 | be + tính từ + to V | it | *It is **hard to fill** this role.* |
 | be + tính từ + that | it | *It is **clear that** demand rose.* |
 | be + khoảng thời gian / khoảng cách | it | *It is **three weeks** until the audit.* |
-| động từ + ___ + tính từ + to V | it (tân ngữ giả) | *makes **it** easy to apply* |
+| động từ + ______ + tính từ + to V | it (tân ngữ giả) | *makes **it** easy to apply* |
 
 ### 2.2. Các dạng của There
 

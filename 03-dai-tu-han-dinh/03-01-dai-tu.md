@@ -1,6 +1,6 @@
 # 3.01 Đại từ nhân xưng, sở hữu, phản thân
 
-M��t đại từ có tới năm dạng, và TOEIC gần như luôn hỏi bạn chọn đúng **dạng** chứ không hỏi bạn hiểu nghĩa. Bài này chỉ cách nhìn vị trí chỗ trống để chọn dạng trong vài giây.
+Một đại từ có tới năm dạng, và TOEIC gần như luôn hỏi bạn chọn đúng **dạng** chứ không hỏi bạn hiểu nghĩa. Bài này chỉ cách nhìn vị trí chỗ trống để chọn dạng trong vài giây.
 
 > **Định vị trong đề**  
 > Xuất hiện ở: Part 5, Part 6  
